@@ -16,7 +16,7 @@ header {
 
 /* 
 What happens when we set the display property to flex? 
-TODO: The Nav becomes a stacked list when the display size is reduced.
+TODO: The Nav becomes a stacked list when the display size is reduced. It becomes flexible.
 */
 nav {
   display: flex;
