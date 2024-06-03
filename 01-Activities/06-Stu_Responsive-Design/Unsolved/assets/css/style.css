@@ -16,7 +16,7 @@ header {
 
 /* 
 What happens when we set the display property to flex? 
-TODO: Write your answer here 
+TODO: The Nav becomes a stacked list when the display size is reduced.
 */
 nav {
   display: flex;
@@ -32,7 +32,7 @@ nav a {
 
 /* 
 What is the flex-wrap property? 
-TODO: Write your answer here 
+TODO: Flex-wrap controls whether the container is single line or multi line when the screen size is reduced
 */
 main {
   display: flex;
@@ -56,7 +56,7 @@ footer {
 
 /* 
 What does the justify-content property do? 
-TODO: Write your answer here 
+TODO: Aligns flex items along an axis when the screen size is reduced (of the current container)
 */
 .products {
   flex: 4;
@@ -70,7 +70,7 @@ TODO: Write your answer here
 /* 
 What is the flex property a shorthand property for?
 What is it doing here? 
-TODO: Write your answer here 
+TODO: The grow or shrink factor of the flex items (in this case the card). It changes how many cards per line as the screen size is reduced and keeps them uniform in size 400px.
 */
 .card {
   border-style: solid;
@@ -95,7 +95,7 @@ TODO: Write your answer here
 /* 
 What does the flex-direction property define?
 What is it doing here? 
-TODO: Write your answer here 
+TODO: When the width of the screen goes below 768px the nav items will change direction to column so they are stacked one on top of another.
 */
 @media screen and (max-width: 768px) {
   main,
