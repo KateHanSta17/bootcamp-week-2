@@ -18,13 +18,13 @@ The following image demonstrates the web application's default appearance and fu
 
 The following image demonstrates the web application's appearance and functionality when the cursor is over the "Show Resources" text:
 
-![Three links to the MDN Web Docs appear under the text "Show Resources."](./Images/02-resources-open.png)
+[Three links to the MDN Web Docs appear under the text "Show Resources."](./Images/02-resources-open.png)
 
 You can use the following resource links for the content:
 
 * [MDN Web Docs on responsive design](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
 
-* [MDN Web Docs on using media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
+* [MDN Web Docs on using media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)!
 
 * [MDN Web Docs on flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
     
